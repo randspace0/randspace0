@@ -2,11 +2,12 @@
 title: "Combining the Power of JavaScript and Rust by Running WebAssembly Outside Browser Using Second State VM"
 is_published: true
 tags:
-  - javascript
-  - rust
-  - webassembly
-  - ssvm
-  - wasm
+    - javascript
+    - rust
+    - webassembly
+    - ssvm
+    - wasm
+date: "2021-01-01"
 ---
 
 ![Components](https://images.unsplash.com/4/madebyvadim.jpg?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
@@ -23,7 +24,7 @@ Why do we want to use WebAssembly? Isn't JavaScript is able to handle everything
 
 - Smaller program size, because the program are compiled to a binary
 - Garbage collector are optional (Only when you're using a garbagely collected language like Go)
-- Closer to machine code, which makes it fast to be compile and does not require any re-optimization anymore 
+- Closer to machine code, which makes it fast to be compile and does not require any re-optimization anymore
 
 In short, what we are going to do is just running a function in a WebAssembly supported language from JavaScript (You can use Node or Deno for the runtime).
 
@@ -54,7 +55,7 @@ So the user will be able to upload an image, then the image uploaded will be pas
 
 ## Writing Rust Code
 
-You only have to write Rust code inside the Rust source  directory `src/` and do not forget to make the function public (`pub`) and gives `#[wasm_bindgen]` attribute.
+You only have to write Rust code inside the Rust source directory `src/` and do not forget to make the function public (`pub`) and gives `#[wasm_bindgen]` attribute.
 
 Below is the summary of my code
 
@@ -187,7 +188,7 @@ After that, you can use any deployment method, but I prefer to connect my GitHub
 
 ![Connected GitHub repositories](https://i.imgur.com/G9ytYKX.png)
 
-Then, press the **Deploy** button to deploy the project and wait until it successfully deployed. 
+Then, press the **Deploy** button to deploy the project and wait until it successfully deployed.
 
 ![Deploy](https://i.imgur.com/PUGgFwK.png)
 
