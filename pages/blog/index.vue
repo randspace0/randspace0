@@ -28,13 +28,10 @@ const { data: posts } = await useAsyncData(
             .all(),
     {
         transform: (data) =>
-            data.map((post) => {
-                console.log(post);
-                return {
-                    ...post,
-                    slug: post.path.split("/").pop() ?? "",
-                };
-            }),
+            data.map((post) => ({
+                ...post,
+                slug: post.path.split("/").pop() ?? "",
+            })),
     },
 );
 </script>

@@ -39,22 +39,6 @@ export default defineNuxtConfig({
         preset: "cloudflare-pages",
         prerender: {
             crawlLinks: true,
-            routes: [
-                "/",
-                "/blog",
-                "/portfolio",
-                "/links",
-                "/blog/all-you-can-eat-dan-konsumerisme",
-                "/blog/functor-applicative-dan-monad-dengan-gambar",
-                "/blog/japan-customs-that-arent-commonly-mentioned",
-                "/blog/javascript-rust-webassembly-outside-browser-withssvm",
-                "/blog/kepanjangan-nama-csw",
-                "/blog/renaming-my-username",
-                "/blog/speedup-rust-compile-time",
-                "/blog/the-bug-that-ate-wednesday",
-                "/blog/time-to-be-productive-on-weekends",
-                "/blog/you-might-want-to-consider-to-upgrade-your-ssh-key-to-ed25519",
-            ],
         },
     },
 
