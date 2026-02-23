@@ -2,7 +2,6 @@
     <ArticleLayout
         v-if="page"
         :title="page.title || 'Links'"
-        :excerpt="page.excerpt"
         identifier="links"
     >
         <ContentRenderer :value="page" />

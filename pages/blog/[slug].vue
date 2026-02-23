@@ -3,7 +3,6 @@
         v-if="post"
         :title="post.title"
         :date="post.date"
-        :excerpt="post.excerpt"
         :identifier="slug"
     >
         <ContentRenderer :value="post" />
