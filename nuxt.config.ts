@@ -1,5 +1,10 @@
 export default defineNuxtConfig({
-    modules: ["@nuxt/content"],
+    modules: ["@nuxt/content", "@nuxtjs/sitemap"],
+
+    sitemap: {
+        sources: ["/api/__sitemap__/urls"],
+    },
+
 
     content: {
         build: {

@@ -1,6 +1,6 @@
 ---
 title: "Masyarakat di Pulau Jawa Terbiasa Tinggal Memadat"
-date: "2027-03-14"
+date: "2026-03-14"
 is_published: true
 ---
 
@@ -75,3 +75,7 @@ Yang perlu dipahami adalah kepadatan ini bukan semata-mata akibat kemiskinan ata
 Desa-desa di Eropa pun dulunya memiliki pola yang sama. Perbedaannya hanya soal waktu — mereka sudah melewati proses industrialisasi dan perubahan tata ruang lebih awal. Indonesia, India, dan Vietnam masih dalam tengah-tengah transisi itu.
 
 Jadi, gang senggol bukan tanda keterbelakangan. Ia adalah jejak sejarah yang masih hidup — dan masih berfungsi dengan caranya sendiri.
+
+---
+
+Disclaimer: Ini hanya spekulasi saja, omongan di atas bukan berdasarkan fakta ilmiah
