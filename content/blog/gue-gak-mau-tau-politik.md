@@ -1,5 +1,5 @@
 ---
-title: "\"Gue Gak Mau Tau Politik\""
+title: '"Gue Gak Mau Tau Politik"'
 date: "2026-03-14"
 is_published: true
 ---
@@ -8,7 +8,7 @@ is_published: true
 
 Photo by [Dorran](https://www.pexels.com/photo/turned-on-grey-table-lamp-1643280/)
 
-Suatu "*privilege*" untuk lu untuk nggak peduli. Sebuah naluri alami manusia untuk menjadi egois. Tapi, lu paham ga sih kalo ini adalah masalah kolektif? Lu juga bisa terdampak sewaktu-waktu.
+Suatu "_privilege_" untuk lu untuk nggak peduli. Sebuah naluri alami manusia untuk menjadi egois. Tapi, lu paham ga sih kalo ini adalah masalah kolektif? Lu juga bisa terdampak sewaktu-waktu.
 
 > Kalo lu udah kaya, lu nggak perlu ngurus politik
 

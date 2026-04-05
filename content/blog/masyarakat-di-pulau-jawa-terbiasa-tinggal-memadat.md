@@ -4,7 +4,7 @@ date: "2026-03-14"
 is_published: true
 ---
 
-Setelah beberapa kali berkunjung ke pedesaan di Pulau Jawa, saya menyadari satu hal yang cukup mencolok: masyarakat di sana sudah terbiasa hidup *memadat* — tinggal bersama dalam jarak yang sangat dekat, bahkan nyaris tanpa ruang di antara rumah satu dengan yang lain.
+Setelah beberapa kali berkunjung ke pedesaan di Pulau Jawa, saya menyadari satu hal yang cukup mencolok: masyarakat di sana sudah terbiasa hidup _memadat_ — tinggal bersama dalam jarak yang sangat dekat, bahkan nyaris tanpa ruang di antara rumah satu dengan yang lain.
 
 ## Fenomena Gang Senggol
 
@@ -36,7 +36,7 @@ Ada dua faktor utama yang menjelaskan ini:
 
 **Faktor ekonomi: tanah diwariskan, bukan dibeli.** Ketika orang tua meninggal, tanah dibagi rata kepada anak-anaknya. Generasi berikutnya membagi lagi ke anak mereka. Lama-kelamaan, satu bidang tanah yang awalnya luas terpecah menjadi kavling-kavling sempit. Tidak ada yang pindah jauh — semua tetap membangun di tanah warisan keluarga.
 
-**Faktor budaya: kedekatan fisik adalah rasa aman.** Dalam budaya masyarakat Jawa, tinggal berjauhan dari tetangga bukan sekadar tidak praktis — tapi juga terasa *angker* dan dianggap antisosial. Gotong royong, hajatan, hingga respons saat musibah semuanya bergantung pada kedekatan fisik. Rumah yang terlalu terpencil justru dilihat dengan curiga.
+**Faktor budaya: kedekatan fisik adalah rasa aman.** Dalam budaya masyarakat Jawa, tinggal berjauhan dari tetangga bukan sekadar tidak praktis — tapi juga terasa _angker_ dan dianggap antisosial. Gotong royong, hajatan, hingga respons saat musibah semuanya bergantung pada kedekatan fisik. Rumah yang terlalu terpencil justru dilihat dengan curiga.
 
 ## Perbandingan dengan Negara Lain
 

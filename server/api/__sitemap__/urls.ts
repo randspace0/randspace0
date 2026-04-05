@@ -1,4 +1,5 @@
-import { queryCollection } from "#imports";
+import { queryCollection } from "@nuxt/content/server";
+import { SitemapUrlInput } from "@nuxtjs/sitemap";
 
 export default eventHandler(async (event) => {
     const posts = await queryCollection(event, "blog")
@@ -9,5 +10,5 @@ export default eventHandler(async (event) => {
     return posts.map((post) => ({
         loc: post.path,
         lastmod: post.date,
-    }));
+    })) satisfies Array<SitemapUrlInput>;
 });
